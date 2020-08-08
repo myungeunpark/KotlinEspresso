@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinEspresso</string>
+    <string name="main_title">Main Activity</string>
+    <string name="main_button">Start Second Activity</string>
+    <string name="second_title">Second Activity</string>
+    <string name ="second_back">Back to Main</string>
+    <string name = "country_usa">UNITED STATES</string>
+    <string name = "country_korea">KOREA</string>
+    <string name = "country_canada">CANADA</string>
+    <string name = "locale_usa">USA</string>
+    <string name = "locale_korea">KOR</string>
+    <string name = "locale_canada">CAN</string>
+    <string name = "locale_no">No Code</string>
+</resources>

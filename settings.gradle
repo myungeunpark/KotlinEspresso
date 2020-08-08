@@ -1,0 +1,2 @@
+rootProject.name='KotlinEspresso'
+include ':app'

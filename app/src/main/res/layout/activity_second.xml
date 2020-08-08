@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/second_activity"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/secondTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/second_title"
+        android:textColor="#3949AB"
+        android:textSize="24sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="30dp"
+        />
+
+    <TextView
+        android:id="@+id/locale"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Locale Code"
+        android:textColor="#E53935"
+        android:textSize="24sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="40dp"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/second_back"
+        android:textSize="24sp"
+        android:layout_gravity="center_horizontal"
+     />
+
+
+</LinearLayout>
